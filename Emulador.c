@@ -122,3 +122,7 @@ void atribuir_barramento_B() {
         case 2: Barramento_B = MBR; 
                 if (MBR & (0b10000000))
                     Barramento_B |= (0b111111111111111111
+
+                            }
+}
+
